@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://bluesway.github.io/atom.xml" rel="self"/>
-  <link href="http://bluesway.github.io/"/>
-  <updated>2016-10-13T20:03:38+09:00</updated>
-  <id>http://bluesway.github.io/</id>
+  <title><![CDATA[Bluestudio]]></title>
+  <link href="https://blog.bluesway.org/atom.xml" rel="self"/>
+  <link href="https://blog.bluesway.org/"/>
+  <updated>2016-10-13T21:17:46+09:00</updated>
+  <id>https://blog.bluesway.org/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
